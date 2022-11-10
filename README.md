@@ -33,4 +33,4 @@ Llibrerias en python:
 
 En el proyecto  primero tomaremos el Csv enviado por HENRY y junto con ese dataset buscamos otro Csv en otras fuentes para poder llevar a cabo las transformaciones, limpieza de los datos y pasarlos de un proceso de python para mysql workbech para asi crear un db, luego lo pasamos a power bi para hacer un dashboard y así ser presentado al corrector.
 
-![imagen](https://)
+![imagen](https://github.com/Karenuzca/Proyecto_individual03/blob/main/31229.jpg)
